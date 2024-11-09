@@ -19,7 +19,7 @@ Main dashboard screen after login (includes Sidebar and ProfileView components):
 ![ss6](https://github.com/user-attachments/assets/bea78990-2803-44fa-a61c-39689f4a7c41)
 (Initial design served as a template for teammates to build additional pages and features upon.)
 
-A series of screens with INSERT and DELETE functionality in the database:
+Database Management Screens (INSERT and DELETE Functionality):
 ![ss3](https://github.com/user-attachments/assets/69baa302-965a-4fd0-932c-8b0f9dae43a5)
 ![ss4](https://github.com/user-attachments/assets/7c0d5a50-d061-4269-bead-a7abd048d976)
 ![ss5](https://github.com/user-attachments/assets/773cd954-897c-499a-8adc-88016105c179)

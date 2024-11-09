@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Elderhealth Web project
 
-## Getting Started
+This is a group project made by a 5 person team.
 
-First, run the development server:
+## My responsibilities: 
+1. Managing the Azure Web server.
+2. Established a cohesive design language across the site to ensure visual and functional consistency.
+3. Developed several key features and interfaces, demonstrated in the screens below.
+4. Created a short video to showcase and explain the project.
+   
+### The server administration tasks: 
+1. Setting up a database.
+2. Setting up different users for each team member.
+3. Creating a background task with a socket to capture data from the Elderhealth app and store the data in the database.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Screenshots from the webpage:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Main dashboard screen after login (includes Sidebar and ProfileView components):
+![ss6](https://github.com/user-attachments/assets/bea78990-2803-44fa-a61c-39689f4a7c41)
+(Initial design served as a template for teammates to build additional pages and features upon.)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+A series of screens with INSERT and DELETE functionality in the database:
+![ss3](https://github.com/user-attachments/assets/69baa302-965a-4fd0-932c-8b0f9dae43a5)
+![ss4](https://github.com/user-attachments/assets/7c0d5a50-d061-4269-bead-a7abd048d976)
+![ss5](https://github.com/user-attachments/assets/773cd954-897c-499a-8adc-88016105c179)
+(Designed for healthcare professionals to manage their patient lists.)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Link to the demonstration video: https://drive.google.com/file/d/1OgsKnJLfd-3qWkeUqt0yIfXpUfQ0Hvpb/view?usp=drive_link
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
